@@ -73,7 +73,7 @@ A Magisk module is a folder placed in `/data/adb/modules` with the structure bel
 │   ├── .
 │   └── .
 ├── .
-├── .
+├── . 
 ```
 
 #### module.prop
